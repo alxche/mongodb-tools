@@ -5,7 +5,9 @@
 ## Usage
 
 ```
-const mongodbTools = require('mongodb-tools');
+const mongodbTools = require('mongodb-easy');
 
-// TODO: DEMONSTRATE API
+// TODO: INIT COLLECTIONS example
+// TODO: SCHEMA example
+// TODO: EXTEND example
 ```

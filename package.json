@@ -1,7 +1,7 @@
 {
-  "name": "@alexche/mongodb-tools",
-  "version": "1.0.1",
-  "description": "Mongo DB tools",
+  "name": "mongodb-easy",
+  "version": "1.0.2",
+  "description": "Set of Mongo DB tools",
   "author": "Alexey Chenosov <alex.chenosov@gmail.com>",
   "homepage": "https://github.com/alxche",
   "license": "ISC",
@@ -33,5 +33,14 @@
   },
   "bugs": {
     "url": "git+https://github.com/alxche/mongodb-tools/issues"
-  }
+  },
+  "keywords": [
+    "mongodb",
+    "mongodb",
+    "tools",
+    "mongo",
+    "collections",
+    "mongo",
+    "schema"
+  ]
 }
